@@ -4,7 +4,8 @@ public class Min{
 	private int a;
 	private int b;
 
-	public Min(){
-		
+	public Min(int a,int b){
+		this.a = a;
+		this.b = b;
 	}
 }

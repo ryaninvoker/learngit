@@ -5,6 +5,6 @@ public class Min{
 	private int b;
 
 	public Min(){
-		
+		a = 1;
 	}
 }
